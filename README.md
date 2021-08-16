@@ -1,3 +1,5 @@
+无相之风战队修改的pest软件，版权所有(c)pest的开发团队，侵权请联系。
+
 <p align="center">
   <img src="https://raw.github.com/pest-parser/pest/master/pest-logo.svg?sanitize=true" width="80%"/>
 </p>
